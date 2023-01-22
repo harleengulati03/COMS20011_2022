@@ -60,8 +60,8 @@ Important: these are not pre-requisites!  The course material should be fully se
 
 | Lecture |  slides |
 | ------ | ---- |
-| MM01. Intro to COMS20111 - quite fishy | [[pdf]](https://github.com/LaurenceA/COMS20011_2022/tree/main/slides/COMS20011-MMLec01.pdf) N/A |
-| Problem Sheet 01 (Self/Group study) | [[pdf]](https://github.com/LaurenceA/COMS20011_2022/tree/main/problemsheets/ProblemSheet01.pdf) N/A  |
+| MM01. Intro to COMS20011 - quite fishy | [[pdf]](https://github.com/LaurenceA/COMS20011_2022/tree/main/slides/COMS20011-MMLec01.pdf) N/A |
+| Problem Sheet 01 (Self/Group study) | [[pdf]](https://github.com/LaurenceA/COMS20011_2022/tree/main/problemsheets/ProblemSheet01.pdf)  |
 | Problem Sheet 01 - Answers          | ... |
 
 
