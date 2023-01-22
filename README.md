@@ -52,10 +52,19 @@ Important: these are not pre-requisites!  The course material should be fully se
 #### All of the above
   * [[Mathematics for Machine Learning]](https://mml-book.github.io/book/mml-book.pdf)
 
-## Lecture material
+## Weekly Lecture material
 
 #### Introduction (Majid)
 
+#### Week 13: 23/01/2022 (Majid)
+
+| Lecture |  slides |
+| ------ | ---- |
+| MM01. Intro to COMS20111 - quite fishy | [[pdf]](https://github.com/LaurenceA/COMS20011_2022/tree/main/slides/COMS20011-MMLec01.pdf) N/A |
+| Problem Sheet 01 (Self/Group study) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet01.pdf) N/A  |
+| Problem Sheet 01 - Answers          | ... |
+
+
 #### Linear regression and maximum likelihood (Laurence)
 
-#### Images and signals (Majid)
+#### Feature Extraction and Analysis (Majid)
