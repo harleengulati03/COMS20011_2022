@@ -1,6 +1,6 @@
 # Data Driven Computer Science (DDCS; COMS20011)
 
-The coursework will teach the basics of how to reason with data.
+The course will teach the basics of how to reason with data.
 
 ## Staff
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) [laurence.aitchison@bristol.ac.uk] (unit director)
