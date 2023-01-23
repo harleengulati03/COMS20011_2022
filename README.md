@@ -56,7 +56,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 
 #### Introduction (Majid)
 
-#### Week 13: 23/01/2022 (Majid)
+#### Week 13: 23/01/2022
 
 | Lecture |  slides |
 | ------ | ---- |
@@ -64,6 +64,12 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
 | Problem Sheet 01 - Answers          | will appear here soon... |
 
+| MM02. Sampling, Distance Measures | [[pdf]] N/A |
+
+#### Week 14: 30/01/2022
+| Lecture |  slides |
+| ------ | ---- |
+| MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[pdf]] N/A |
 
 #### Linear regression and maximum likelihood (Laurence)
 
