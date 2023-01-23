@@ -63,12 +63,12 @@ Important: these are not pre-requisites!  The course material should be fully se
 | MM01. Intro to COMS20011 - quite fishy | [[pdf]](Slides/COMS20011-MMLec01.pdf) |
 | Problem Sheet 01 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM01.pdf)  |
 | Problem Sheet 01 - Answers          | will appear here soon... |
-| MM02. Sampling, Distance Measures | [pdf] N/A |
+| MM02. Sampling, Distance Measures | [pdf] |
 
 #### Week 14: 30/01/2022
 | Lecture |  slides |
 | ------ | ---- |
-| MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [pdf] N/A |
+| MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [pdf] |
 
 #### Linear regression and maximum likelihood (Laurence)
 
