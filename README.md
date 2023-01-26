@@ -1,6 +1,6 @@
 # Data Driven Computer Science (DDCS; COMS20011)
 
-The coursework will teach the basics of how to reason with data.
+The course will teach the basics of how to reason with data.
 
 ## Staff
 - [Laurence Aitchison](http://www.gatsby.ucl.ac.uk/~laurence/) [laurence.aitchison@bristol.ac.uk] (unit director)
@@ -26,7 +26,7 @@ The coursework will teach the basics of how to reason with data.
 * The course is assessed 100% by exam.  The exam is in-person multiple-choice.
 
 ## Routes for feedback:
-* TA led sessions on Thursday 4-5 (group 1) or 5-6 (group 2) (you should have one of these slots in your calendar).  You can ask about all aspects of the course lectures, labs and exams.  We have a room for these (MVB 2.11), and some support will be available in the room.  We may also have support available online.  The first lab session is on 9th Feb (there will be no session on Feb 2nd).
+* TA led sessions on Thursday 4-5 (group 1) or 5-6 (group 2) (you should have one of these slots in your calendar).  You can ask about all aspects of the course lectures, labs and exams.  We have a room for these (MVB 2.11), and some support will be available in the room.  We may also have support available online.  The first lab session is on 2nd Feb (there will be no session on Jan 26th).
 * You can ask questions on the Teams General Channel.
 * We may use a few of the lecture slots as online QA slots (there will be an email beforehand about this).
 
