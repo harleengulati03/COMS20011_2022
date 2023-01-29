@@ -69,7 +69,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Lecture |  slides |
 | ------ | ---- |
 | MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [pdf] |
-| Problem Sheet 02 (Self/Group study) | soon!) |
+| Problem Sheet 02 (Self/Group study) | soon! |
 | Problem Sheet 02 - Answers          | later!  |
 
 #### Linear regression and maximum likelihood (Laurence)
