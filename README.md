@@ -68,7 +68,7 @@ Important: these are not pre-requisites!  The course material should be fully se
 #### Week 14: 30/01/2022
 | Lecture |  slides |
 | ------ | ---- |
-| MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[pdf]] (Slides/COMS20011-MMLec03.pdf)|
+| MM03. Data Characteristics - Covariance - Eigen Analysis - Outliers | [[pdf]](Slides/COMS20011-MMLec03.pdf)|
 | Problem Sheet 02 (Self/Group study) | soon! |
 | Problem Sheet 02 - Answers          | later!  |
 
