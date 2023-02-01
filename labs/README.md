@@ -65,9 +65,3 @@ ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.
 
 There are lots of options to install Python, but we'd recommend Anaconda, which comes with all the libraries necessary to run the labs:
 [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
-
-
-| Labsheet link | Labsheet answers |
-|---------------|------------------|
-|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2022/blob/main/labs/lab_1/labsheet1.ipynb) |
-
