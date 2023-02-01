@@ -1,10 +1,8 @@
 # COMS20011_2020 Labs
 
-The labs are all Jupyter Notebooks.
+The labs are all Jupyter Notebooks.  We recommend that you work at a lab machine, but we also give instructions for working remotely.
 
-There are two basic options: remotely logging in to a lab machine or locally installing Python (not supported).
-
-## Clone Lab sheet and Run Jupyter on a Lab Machine
+## Working locally at a lab machine.
 Start by cloning the lab sheet to the machine you're working at (usually the local/remote lab machine)
 
 1. Open the terminal.
@@ -59,6 +57,7 @@ ssh -L 6006:localhost:7373 -J user@seis.bris.ac.uk user@rd-mvb-linuxlab.bristol.
 3. Open localhost:6006 in a web browser on your local machine and enter the token provided by Jupyter Notebook.
 
 *WSL is [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about).
+
 ## Locally installing Anaconda
 
 *This is not supported!*
