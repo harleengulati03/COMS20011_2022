@@ -11,11 +11,11 @@ Start by cloning the lab sheet to the machine you're working at (usually the loc
 
 2. Clone the lab repository from Github to your lab machine.
 ```
-git clone https://github.com/LaurenceA/COMS20011_2021.git
+git clone https://github.com/LaurenceA/COMS20011_2022.git
 ```
 3. Pull the repository each time before the lab to get the latest updates of the repository.
 ```
-cd COMS20011_2021
+cd COMS20011_2022
 git pull
 ```
 4. To start Jupyter notebooks, run 
@@ -69,5 +69,5 @@ There are lots of options to install Python, but we'd recommend Anaconda, which 
 
 | Labsheet link | Labsheet answers |
 |---------------|------------------|
-|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2021/blob/main/labs/lab_1/labsheet1.ipynb) |
+|[[Labsheet 1]](https://github.com/LaurenceA/COMS20011_2022/blob/main/labs/lab_1/labsheet1.ipynb) |
 
