@@ -1,6 +1,6 @@
 # COMS20011_2020 Labs
 
-The labs are all Jupyter Notebooks.  Please get set up with them as soon as possible: I've left Lab 1 up to allow you to test.
+The labs are all Jupyter Notebooks.
 
 There are two basic options: remotely logging in to a lab machine or locally installing Python (not supported).
 
