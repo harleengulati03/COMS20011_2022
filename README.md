@@ -72,6 +72,9 @@ Important: these are not pre-requisites!  The course material should be fully se
 | Problem Sheet 02 (Self/Group study) | [[pdf]](ProblemSheets/ProblemSheet-MM02.pdf)  |
 | Problem Sheet 02 - Answers          | Friday 3rd Feb  |
 
-#### Linear regression and maximum likelihood (Laurence)
+#### Mathematical preliminaries (Laurence)
+| Notes |
+| ----- |
+| [Notes, question sheet and answers](https://github.com/LaurenceA/COMS20011_2022/blob/main/notes/prereqs.pdf) |
 
 #### Feature Extraction and Analysis (Majid)
